@@ -1,0 +1,9 @@
+img{
+    border-radius: 50%;
+}
+h2 u{
+    color: lightseagreen;
+}
+table tr:nth-child(odd){
+    background-color: lightseagreen;
+}
